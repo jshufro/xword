@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: xword
+Version: 2.0.0~rc2
+Summary: Reads and writes crossword puzzles in the Across Lite file format
+Home-page: http://alioth.debian.org/projects/xword/
+Author: Cameron Dale
+Author-email: <xword-devel@lists.alioth.debian.org>
+License: BSD
+Description: Xword is a GTK+ program that works well for doing crossword puzzles in the Across Lite file format used by The New York Times and others. As well as a clock, it supports printing. It also auto-saves puzzles as you solve them so that you can return to partially completed puzzles.
+Platform: UNKNOWN

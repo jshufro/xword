@@ -1,0 +1,42 @@
+Before Release
+==============
+
+# Fix printing (Windows bug, Linux bug, enlarge support)
+# Test fresh install, install over old version
+# Make sure keyboard shortcuts (including arrows & delete key) match Across Lite
+# Possible problem: Open puzzle in locked mode, reopen in unlocked, close,
+#   then when you run xword it opens back in locked
+
+
+Next Release
+============
+
+# Add ability to scan multiple directories to the organizer
+
+# Use filters to limit the displayed puzzles in the organizer
+
+# Use IPC to manage multiple instances
+
+# Verify puzzle checksums
+# Handle Rebus squares
+
+# Organizer list of clock and filter/sort
+
+
+Future Releases
+===============
+
+# Use a custom TreeModel implementation backed by an SQLite database
+http://www.johnstowers.co.nz/blog/index.php/2007/12/06/the-big-move/
+http://docs.python.org/library/sqlite3.html
+
+# Use Glade
+http://www.micahcarrick.com/gtk-glade-tutorial-part-1.html
+
+# Translate all UI strings
+https://prioritiseapp.wordpress.com/2010/07/28/translating-a-pygtk-application/
+
+# Create Windows installer
+
+# Migrate to PyGObject from PyGTK
+http://live.gnome.org/PyGObject/IntrospectionPorting
